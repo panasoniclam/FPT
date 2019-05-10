@@ -11,6 +11,8 @@ class App extends Component {
     }
     setStateHandler= () =>{
         console.log('jaiai')
+        console.log('akakak')
+        console.log('kdkdkdk')
         this.setState({data : this.state.data+1});
     }
     render(){
