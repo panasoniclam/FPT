@@ -13,6 +13,7 @@ class App extends Component {
         console.log('jaiai')
         console.log('akakak')
         console.log('kdkdkdk')
+        console.log('lam')
         this.setState({data : this.state.data+1});
     }
     render(){
