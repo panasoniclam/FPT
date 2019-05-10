@@ -14,6 +14,7 @@ class App extends Component {
         console.log('akakak')
         console.log('kdkdkdk')
         console.log('lam')
+        console.log('slsllsl')
         this.setState({data : this.state.data+1});
     }
     render(){
