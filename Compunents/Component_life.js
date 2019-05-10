@@ -10,7 +10,7 @@ class App extends Component {
         this.setStateHandler = this.setStateHandler.bind(this);
     }
     setStateHandler= () =>{
-        console.log('jaiai')
+       
         this.setState({data : this.state.data+1});
     }
     render(){
